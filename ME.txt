@@ -1,1 +1,1 @@
-google.com,yahoo.com,hotmail.com,aol.com,hotmail.it,ymail.com,yahoo.it,yahoo.de,yahoo.in,outlook.com,skymay.net,icloud.com
+google.com,gmail.com,yahoo.com,hotmail.com,aol.com,hotmail.it,ymail.com,yahoo.it,yahoo.de,yahoo.in,outlook.com,skymay.net,icloud.com
