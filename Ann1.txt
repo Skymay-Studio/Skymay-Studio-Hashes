@@ -1,5 +1,7 @@
-Test12345¨ ABCD ABCD 123151  
-
-5616816 
-
-616851561
+SKST Launcher update 2.0: ¨ - Completly new UI
+- Accounts
+- Cloud saving
+- Skycoins
+- Announcement board ( what you are reading )
+- Bug fixes
+- And much more
