@@ -1,5 +1,5 @@
 # Skymay-Studio-Hashes
 
-Hello, please do not do anything with this repo as it is bc. useless
+Hello, this repo is useless.
 
 Have a nice day :)
